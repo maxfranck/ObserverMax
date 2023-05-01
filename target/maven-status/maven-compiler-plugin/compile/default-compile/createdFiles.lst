@@ -1,0 +1,5 @@
+com\mycompany\observermax\ObserverMax.class
+com\mycompany\observermax\OctalObserver.class
+com\mycompany\observermax\BinaryObserver.class
+com\mycompany\observermax\Subject.class
+com\mycompany\observermax\Observer.class
